@@ -1,4 +1,4 @@
-package com.teamtreehouse.coursez;
+package com.teamtreehouse.coursez.model;
 
 public class Review {
   private int id;
